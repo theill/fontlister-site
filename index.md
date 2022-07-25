@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## FontLister
 
-You can use the [editor on GitHub](https://github.com/theill/fontlister-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In my early years I was interested in fonts and used a lot of times finding the best one for my web sites. Since it wasn’t possible to test out paragraphs of text easily I created FontLister allowing me to test a full paragraph of text with all fonts installed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After releasing version 1.0 I got a lot of requests and I started adding more and more features over the coming years. Originally priced at $5 bucks it was a real bargain since most other competitors were either really bad or priced 10x my price.
 
-### Markdown
+After a couple of versions FontLister was able to manage both ATM and TTF formats, had several view modes for showing installed fonts, character glyph inspectors as well as extensive support for printing and previewing “font books”.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theill/fontlister-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](images/ansitable_shot.webp)
+![](images/main_shot.webp)
+![](images/print_shot.webp)
+![](images/printpreview_shot.webp)
+![](images/properties_shot.webp)
+![](images/settings_shot.webp) 
