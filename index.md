@@ -12,3 +12,5 @@ After a couple of versions FontLister was able to manage both ATM and TTF format
 ![](images/printpreview_shot.webp)
 ![](images/properties_shot.webp)
 ![](images/settings_shot.webp) 
+
+If you would like to try it out then you're free to <a href="https://www.theill.com/wp-content/uploads/2019/01/fl.zip">download FontLister</a>.
